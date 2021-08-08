@@ -35,7 +35,7 @@ product_id|||product_parent|total_votes|
 |review_body|
 |review_date|
 
-## Deliverable 2
+## Deliverable 2: Vine Review Analysis
 - Dataset Used: https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Watches_v1_00.tsv.gz
 - Link to script: [Vine_Review_Analysis.ipynb](https://github.com/sthi-1005/Amazon_Vine_Analysis/blob/ba52b53ef5852e7278572db22bfaffb436d2d7c7/Vine_Review_Analysis.ipynb)
 ### Key Results
