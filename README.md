@@ -40,7 +40,7 @@ product_id|||product_parent|total_votes|
 - Link to script: [Vine_Review_Analysis.ipynb](https://github.com/sthi-1005/Amazon_Vine_Analysis/blob/ba52b53ef5852e7278572db22bfaffb436d2d7c7/Vine_Review_Analysis.ipynb)
 ### Key Results
 ![image](https://user-images.githubusercontent.com/79720695/128638473-f9d69e05-5c0f-4858-baf5-8c076b1abe45.png)
-Observations:
+<br>Observations:
 - The sample size of Vine (Paid) reviews is much smaller than non-Vine (Unpaid) reviews
 - The ratio of 5 Star Reviews to Total Reviews per item is: 31.2% (Paid) and 51.8 (Unpaid)
 Interpretation:
